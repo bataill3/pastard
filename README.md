@@ -26,3 +26,5 @@ say about a script like this, you can send electronic mail
 to bataille (at) riseup (dot) net.
 
 Happy pastin'!
+
+Oh - and Requests library by the brilliant Kenneth Reitz is required. Get it: http://docs.python-requests.org/en/latest/
